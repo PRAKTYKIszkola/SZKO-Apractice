@@ -1,3 +1,3 @@
 # SZKOŁApractice
 
-Developed with Unreal Engine 4
+Robimy szkołe VR + FP
