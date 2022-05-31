@@ -18,10 +18,6 @@
 			"Name": "DefaultValues",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6d141347f2cf4eb68c9c47d885bb02cf"
-		},
-		{
-			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
 		}
 	]
 }
